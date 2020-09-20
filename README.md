@@ -1,10 +1,10 @@
-### Hi there, I'm Salah Eddine ZKARA - 👋
+### Hi there, I'm Salah Eddine ZKARA 👋
 
 [![Website](https://img.shields.io/badge/My-Portfolio-brightgreen)](website)
 
 ## I'm a Data Science Student, Developer
 
-- 🔭 I’m currently working on a [Machine learning Project][https://gist.github.com/Salah-Zkara/56e4dcc86d940e356472c0a84722a174]!
+- 🔭 I’m currently working on a [Machine learning Project][gist]!
 - 🌱 I’m currently learning AI and ML
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing GTA5 hard parcours and Story Games!
@@ -68,6 +68,7 @@
 </details>
 
 [website]: https://salah-zkara.codes/
+[gist]: https://gist.github.com/Salah-Zkara/56e4dcc86d940e356472c0a84722a174
 [twitter]: https://twitter.com/SalahZkara
 [facebook]: https://www.facebook.com/salaheddine.zkara.9
 [instagram]: https://www.instagram.com/salaheddine.zkara/?hl=en
