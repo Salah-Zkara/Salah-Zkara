@@ -1,4 +1,4 @@
-### Hi there, I'm Salah Eddine ZKARA [Portfolio][https://salah-zkara.codes/] 👋
+### Hi there, I'm Salah Eddine ZKARA - 👋
 
 [![Website](https://img.shields.io/badge/My-Portfolio-brightgreen)](website)
 
