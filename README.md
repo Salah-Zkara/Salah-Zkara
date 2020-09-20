@@ -48,7 +48,11 @@
 
 <img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Salah-Zkara&show_icons=true&hide_border=true&count_private=true" />
 
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-Zkara)](https://github.com/Salah-Zkara/github-readme-stats)
+
+[![Salah Eddine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Salah-Zkara)](https://github.com/Salah-Zkara/github-readme-stats)
 
 [website]: https://salah-zkara.codes/
 [gist]: https://gist.github.com/Salah-Zkara/56e4dcc86d940e356472c0a84722a174
