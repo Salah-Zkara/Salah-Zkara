@@ -28,6 +28,10 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/fr/docs/Web/Guide/HTML/HTML5)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
+[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />](https://flask.palletsprojects.com/en/1.1.x/)
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://docs.oracle.com/en/java/)
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://devdocs.io/c/)
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://sql.sh/)
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://dev.mysql.com/doc/)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/doc)
@@ -46,13 +50,9 @@
 
 ---
 
-<img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Salah-Zkara&show_icons=true&hide_border=true&count_private=true" />
-
-<br />
+<img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats-nine-tawny.vercel.app/api?username=Salah-Zkara&show_icons=true&hide_border=true&count_private=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salah-Zkara)](https://github.com/Salah-Zkara/github-readme-stats)
-
-[![Salah Eddine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Salah-Zkara)](https://github.com/Salah-Zkara/github-readme-stats)
 
 [website]: https://salah-zkara.codes/
 [gist]: https://gist.github.com/Salah-Zkara/56e4dcc86d940e356472c0a84722a174
