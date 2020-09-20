@@ -40,7 +40,7 @@
 ---
 
 ### 📕 Latest Blog Posts
-
+- [Machine Learning: Sentiment Analysis ](https://gist.github.com/Salah-Zkara/56e4dcc86d940e356472c0a84722a174)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -91,5 +91,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- [Machine Learning: Sentiment Analysis ](https://gist.github.com/Salah-Zkara/56e4dcc86d940e356472c0a84722a174)
+
 -->
