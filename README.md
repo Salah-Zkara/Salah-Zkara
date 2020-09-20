@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/My-Portfolio-brightgreen)](website)
 
-## I'm a Data Science Student, Developer
+## I'm a Data Science Student and Developer!
 
 - 🔭 I’m currently working on a [Machine learning Project][gist]!
 - 🌱 I’m currently learning AI and ML
@@ -69,9 +69,6 @@
 [facebook]: https://www.facebook.com/salaheddine.zkara.9
 [instagram]: https://www.instagram.com/salaheddine.zkara/?hl=en
 [linkedin]: https://www.linkedin.com/in/salah-eddine-zkara-b40b091a6/
-
-
-
 
 
 <!--
