@@ -46,7 +46,7 @@
 
 ---
 
-<img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Salah-Zkara&show_icons=true&hide_border=true" />
+<img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Salah-Zkara&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://salah-zkara.codes/
 [gist]: https://gist.github.com/Salah-Zkara/56e4dcc86d940e356472c0a84722a174
