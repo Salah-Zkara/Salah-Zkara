@@ -53,8 +53,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Salah-Zkara/Election-Mini-Projet/pull/1) in [Salah-Zkara/Election-Mini-Projet](https://github.com//Salah-Zkara/Election-Mini-Projet)
-2. 💪 Opened PR [#1](https://github.com//Salah-Zkara/Election-Mini-Projet/pull/1) in [Salah-Zkara/Election-Mini-Projet](https://github.com//Salah-Zkara/Election-Mini-Projet)
+1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+2. 🎉 Merged PR [#1](https://github.com//Salah-Zkara/Election-Mini-Projet/pull/1) in [Salah-Zkara/Election-Mini-Projet](https://github.com//Salah-Zkara/Election-Mini-Projet)
 <!--END_SECTION:activity-->
 
 ---
