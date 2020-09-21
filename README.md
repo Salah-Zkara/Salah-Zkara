@@ -59,7 +59,7 @@
 
 ---
 
-<img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats-nine-tawny.vercel.app/api?username=Salah-Zkara&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats-nine-tawny.vercel.app/api?username=Salah-Zkara&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats-nine-tawny.vercel.app/api/top-langs/?username=Salah-Zkara&count_private=true)](https://github.com/Salah-Zkara/github-readme-stats)
 
