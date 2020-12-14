@@ -53,8 +53,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Salah-Zkara/test/pull/1) in [Salah-Zkara/test](https://github.com/Salah-Zkara/test)
-2. 💪 Opened PR [#1](https://github.com/Salah-Zkara/test/pull/1) in [Salah-Zkara/test](https://github.com/Salah-Zkara/test)
+1. 🗣 Commented on [#1](https://github.com/Salah-Zkara/Morocco-GeoJson/issues/1) in [Salah-Zkara/Morocco-GeoJson](https://github.com/Salah-Zkara/Morocco-GeoJson)
+2. 🗣 Commented on [#1](https://github.com/Salah-Zkara/Morocco-GeoJson/issues/1) in [Salah-Zkara/Morocco-GeoJson](https://github.com/Salah-Zkara/Morocco-GeoJson)
 <!--END_SECTION:activity-->
 
 ---
