@@ -53,7 +53,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Salah-Zkara/Morocco-GeoJson/issues/1) in [Salah-Zkara/Morocco-GeoJson](https://github.com/Salah-Zkara/Morocco-GeoJson)
+1. 🗣 Commented on [#2](https://github.com/alok676875/RDP/issues/2) in [alok676875/RDP](https://github.com/alok676875/RDP)
 2. 🗣 Commented on [#1](https://github.com/Salah-Zkara/Morocco-GeoJson/issues/1) in [Salah-Zkara/Morocco-GeoJson](https://github.com/Salah-Zkara/Morocco-GeoJson)
 <!--END_SECTION:activity-->
 
