@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a [Machine learning Project][gist]!
 - 🌱 I’m currently learning AI and ML
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Create more Open Source Softwares
 - ⚡ Fun fact: I love playing GTA5 hard parcours and Story Games!
 
 ### Spotify Playing 🎧
