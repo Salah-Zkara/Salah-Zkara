@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="salah-zkara.codes" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="zkara.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Salah-Zkara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Salah-Zkara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Salah-Zkara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/facebook.svg" />][facebook]
@@ -74,28 +74,12 @@
 
 [![Top Langs](https://github-readme-stats-nine-tawny.vercel.app/api/top-langs/?username=Salah-Zkara&count_private=true)](https://github.com/Salah-Zkara/github-readme-stats)
 
-[website]: https://salah-zkara.codes/
+[website]: salah-zkara.github.io/HOST/
 [gist]: https://gist.github.com/Salah-Zkara/56e4dcc86d940e356472c0a84722a174
 [twitter]: https://twitter.com/SalahZkara
 [facebook]: https://www.facebook.com/salaheddine.zkara.9
 [instagram]: https://www.instagram.com/salaheddine.zkara/?hl=en
 [linkedin]: https://www.linkedin.com/in/salah-eddine-zkara-b40b091a6/
 
-
-<!--
-**Salah-Zkara/Salah-Zkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
