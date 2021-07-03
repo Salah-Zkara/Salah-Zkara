@@ -1,8 +1,8 @@
 ### Hi there, I'm Salah Eddine ZKARA - [Portfolio][website] &nbsp; <img src="./wave.gif" width="24px">
 
-<!-- [![Website](https://img.shields.io/badge/My-Portfolio-brightgreen)](website) -->
+[![Website](https://img.shields.io/badge/My-Portfolio-brightgreen)][website]
 
-[<img alt="Badge" src="https://img.shields.io/badge/My-Portfolio-brightgreen"/>](website)
+<!-- [<img alt="Badge" src="https://img.shields.io/badge/My-Portfolio-brightgreen"/>][website] -->
 
 ## I'm a Data Science Student and Developer!
 
