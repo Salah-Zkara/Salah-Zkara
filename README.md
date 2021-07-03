@@ -73,7 +73,7 @@
 
 <img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats-nine-tawny.vercel.app/api?username=Salah-Zkara&show_icons=true&hide_border=true&count_private=true&theme=react&bg_color=0D1117" />
 
-<img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats-nine-tawny.vercel.app/api/top-langs/?username=Salah-Zkara&count_private=true&langs_count=8&layout=compact&theme=react&hide_border=true&hide=java,html,css&bg_color=0D1117" />
+<img alt="Salah Eddine's Github Stats" src="https://github-readme-stats-nine-tawny.vercel.app/api/top-langs/?username=Salah-Zkara&count_private=true&langs_count=8&layout=compact&theme=react&hide_border=true&hide=java,html,css&bg_color=0D1117" />
 
 <!-- &hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" -->
 
