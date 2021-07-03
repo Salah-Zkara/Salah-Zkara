@@ -1,4 +1,4 @@
-### Hi there, I'm Salah Eddine ZKARA - [Portfolio][website] 👋
+### Hi there, I'm Salah Eddine ZKARA - [Portfolio][website] &nbsp; <img src="./wave.gif" width="24px">
 
 [![Website](https://img.shields.io/badge/My-Portfolio-brightgreen)](website)
 
@@ -14,12 +14,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="zkara.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Salah-Zkara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Salah-Zkara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Salah-Zkara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Salah-Zkara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="zkara.ml" width="34px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Salah-Zkara | Twitter" src="https://img.icons8.com/fluent/34/000000/twitter.png" />][twitter]
+[<img align="left" alt="Salah-Zkara | LinkedIn" src="https://img.icons8.com/fluent/34/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Salah-Zkara | Facebook" src="https://img.icons8.com/fluent/34/000000/facebook-new.png" />][facebook]
+[<img align="left" alt="Salah-Zkara | Instagram" src="https://img.icons8.com/fluent/34/000000/instagram-new.png" />][instagram]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -45,7 +46,7 @@
 [<img align="left" alt="Heroku" src="https://img.icons8.com/color/30/000000/heroku.png"/>](https://www.heroku.com/)
 [<img align="left" alt="OpenCV" src="https://img.icons8.com/fluent/30/000000/opencv.png"/>](https://opencv.org/)
 [<img align="left" alt="scikit-learn" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />](http://scikit-learn.org/)
-[<img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />](https://www.tensorflow.org/)
+[<img align="left" alt="TensorFlow" width="30px" src="https://img.icons8.com/color/30/000000/tensorflow.png" />](https://www.tensorflow.org/)
 [<img align="left" alt="Keras" width="30px" src="https://raw.githubusercontent.com/github/explore/cf9a84017e3cdd93aeb635d9b85379ba67d62031/topics/keras/keras.png" />](https://keras.io/)
 
 
@@ -70,9 +71,13 @@
 
 ---
 
-<img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats-nine-tawny.vercel.app/api?username=Salah-Zkara&show_icons=true&hide_border=true" />
+<img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats-nine-tawny.vercel.app/api?username=Salah-Zkara&show_icons=true&hide_border=true&count_private=true&theme=react&bg_color=0D1117" />
 
-[![Top Langs](https://github-readme-stats-nine-tawny.vercel.app/api/top-langs/?username=Salah-Zkara&count_private=true)](https://github.com/Salah-Zkara/github-readme-stats)
+<img align="left" alt="Salah Eddine's Github Stats" src="https://github-readme-stats-nine-tawny.vercel.app/api/top-langs/?username=Salah-Zkara&count_private=true&langs_count=8&layout=compact&theme=react&hide_border=true&hide=java,html,css&bg_color=0D1117" />
+
+<!-- &hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" -->
+
+<!-- [![Top Langs](https://github-readme-stats-nine-tawny.vercel.app/api/top-langs/?username=Salah-Zkara&count_private=true&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Salah-Zkara/github-readme-stats) -->
 
 [website]: salah-zkara.github.io/HOST/
 [gist]: https://gist.github.com/Salah-Zkara/56e4dcc86d940e356472c0a84722a174
