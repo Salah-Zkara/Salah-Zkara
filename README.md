@@ -79,7 +79,7 @@
 
 [![Top Langs](https://github-readme-stats-nine-tawny.vercel.app/api/top-langs/?username=Salah-Zkara&count_private=true&langs_count=8&layout=compact&theme=react&hide_border=true&hide=java,html,css&bg_color=0D1117)](https://github.com/Salah-Zkara/github-readme-stats)
 
-[website]: salah-zkara.github.io/HOST/
+[website]: https://salah-zkara.github.io/HOST/
 [gist]: https://gist.github.com/Salah-Zkara/56e4dcc86d940e356472c0a84722a174
 [twitter]: https://twitter.com/SalahZkara
 [facebook]: https://www.facebook.com/salaheddine.zkara.9
