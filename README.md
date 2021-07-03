@@ -32,6 +32,7 @@
 [<img align="left" alt="CSS3" src="https://img.icons8.com/color/30/000000/css3.png"/>](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="ReactJS" src="https://img.icons8.com/color/30/000000/react-native.png" />](https://reactjs.org/)
+[<img align="left" alt="VueJS" src="https://img.icons8.com/color/30/000000/vue-js.png" />](https://vuejs.org/)
 [<img align="left" alt="Python3" src="https://img.icons8.com/color/30/000000/python--v2.png"/>](https://www.python.org/)
 [<img align="left" alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />](https://jupyter.org/)
 [<img align="left" alt="Flask" src="https://img.icons8.com/ios/30/000000/flask.png"/>](https://flask.palletsprojects.com/en/1.1.x/)
