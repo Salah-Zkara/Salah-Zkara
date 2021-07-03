@@ -1,6 +1,8 @@
 ### Hi there, I'm Salah Eddine ZKARA - [Portfolio][website] &nbsp; <img src="./wave.gif" width="24px">
 
-[![Website](https://img.shields.io/badge/My-Portfolio-brightgreen)](website)
+<!-- [![Website](https://img.shields.io/badge/My-Portfolio-brightgreen)](website) -->
+
+[<img alt="Badge" src="https://img.shields.io/badge/My-Portfolio-brightgreen"/>](website)
 
 ## I'm a Data Science Student and Developer!
 
@@ -77,7 +79,7 @@
 
 <!-- &hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" -->
 
-[![Top Langs](https://github-readme-stats-nine-tawny.vercel.app/api/top-langs/?username=Salah-Zkara&count_private=true&langs_count=8&layout=compact&theme=react&hide_border=true&hide=java,html,css&bg_color=0D1117)](https://github.com/Salah-Zkara/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nine-tawny.vercel.app/api/top-langs/?username=Salah-Zkara&count_private=true&langs_count=5&layout=compact&theme=react&hide_border=true&hide=html,jupyter%20notebook,css&bg_color=0D1117)](https://github.com/Salah-Zkara/github-readme-stats)
 
 [website]: https://salah-zkara.github.io/HOST/
 [gist]: https://gist.github.com/Salah-Zkara/56e4dcc86d940e356472c0a84722a174
