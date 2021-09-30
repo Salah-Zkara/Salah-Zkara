@@ -4,7 +4,7 @@
 
 <!-- [<img alt="Badge" src="https://img.shields.io/badge/My-Portfolio-brightgreen"/>][website] -->
 
-## I'm a Data Science Student and Developer!
+## I'm a Data Science / Big Data Student and Developer!
 
 - 🔭 I’m currently working on a [Machine learning Project][gist]!
 - 🌱 I’m currently learning AI and ML
