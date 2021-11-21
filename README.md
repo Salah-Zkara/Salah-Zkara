@@ -38,6 +38,8 @@
 [<img align="left" alt="Jupyter Notebook" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />](https://jupyter.org/)
 [<img align="left" alt="Flask" src="https://img.icons8.com/ios/30/000000/flask.png"/>](https://flask.palletsprojects.com/en/1.1.x/)
 [<img align="left" alt="Java" src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v2.png"/>](https://docs.oracle.com/en/java/)
+[<img align="left" alt="Kotlin" src="https://img.icons8.com/color/30/000000/kotlin.png"/>](https://kotlinlang.org/)
+
 [<img align="left" alt="C" src="https://img.icons8.com/color/30/000000/c-programming.png"/>](https://www.cprogramming.com/)
 [<img align="left" alt="C++" src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/>](https://www.cprogramming.com/)
 [<img align="left" alt="SQL" src="https://img.icons8.com/ios-filled/30/000000/database.png" />](https://sql.sh/)
